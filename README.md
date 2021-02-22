@@ -1,1 +1,1 @@
-# SOCIAL-Social-Networks
+# Overlapping-Communities-Memetic-Algorithm
