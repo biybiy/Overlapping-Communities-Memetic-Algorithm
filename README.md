@@ -1,1 +1,1 @@
-# Overlapping-Communities-Memetic-Algorithm
+# Overlapping Communities: Memetic-Algorithm
